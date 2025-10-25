@@ -1,1 +1,1 @@
-This project is an extension to the laboratory task described in task.pdf
+This project is a solution and an extension to the laboratory task described in task.pdf
